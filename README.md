@@ -5,4 +5,11 @@ Print("Some Females")
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Blackout4781" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=038042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Blackout4781" alt="Profile Forks"></a>
 
-<a href="https://discord.gg/n5hn7HahWb" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>\
+<a href="https://discord.gg/n5hn7HahWb" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=Blackout4781&show_icons=true&theme=dark&count_private=true">
+</p>
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackout4781&theme=blue-green">
+</p>
