@@ -8,7 +8,7 @@ Print("Some Females")
 
 <img src="https://discord.c99.nl/widget/theme-3/848357286988873749.png"></img>
 
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blackout4781&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Blackout4781" /> </p>
+</a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blackout4781&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Blackout4781" /> </p>
 
 
 <a href="https://discord.gg/n5hn7HahWb" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
