@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Blackout4781
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```sh-session
+Print("Some Females")
+```
 
-<!---
-Blackout4781/Blackout4781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://discord.gg/n5hn7HahWb" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>\
